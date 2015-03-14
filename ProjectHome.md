@@ -1,0 +1,1 @@
+Export 3D models and animations from Blender 2.6 into Panda 3D format (.EGG)
